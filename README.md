@@ -1,4 +1,4 @@
-Hi there 👋
+Olá, me chamo Rodrigo Oliveira 👋
 
 eu sou Rodrigo Oliveira, sou um programador Front End atualmente estou aprendendo e criando projetos com:
 
