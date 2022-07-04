@@ -1,4 +1,4 @@
-Olá, me chamo Rodrigo Oliveira 👋
+<b>Olá, me chamo Rodrigo Oliveira<b> 👋
 
 eu sou Rodrigo Oliveira, sou um programador Front End atualmente estou aprendendo e criando projetos com:
 
