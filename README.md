@@ -1,6 +1,4 @@
  ## Olá, me chamo Rodrigo Oliveira 👋
-   <br>
-   <br>
 
 ## Sou um programador Front End atualmente estou aprendendo e criando projetos com:
 
